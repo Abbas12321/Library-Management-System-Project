@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "646f7d9bd4e5e04fbd8c3718"
+  },
+  "first_name": "abbas",
+  "last_name": "shaikh",
+  "email": "abbas12@gmail.com",
+  "password": "$2a$10$vHqQ0jJq/D714kO7bHstPOa9WFwgequRaW6SAA.8HCg5WBAxAqFfy",
+  "phone_no": "7874899374",
+  "createdAt": {
+    "$date": "2023-05-25T15:24:11.754Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-25T15:24:11.754Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647491606695df039a370f7e"
+  },
+  "first_name": "steve",
+  "last_name": "jobs",
+  "email": "stevejobs@gmail.com",
+  "password": "$2a$10$lH1OO1hB894odQt91xuD5.nGn6aOXz4fKAMbK8wmaYMKsDtY6MN4u",
+  "phone_no": "9859038409",
+  "createdAt": {
+    "$date": "2023-05-29T11:49:52.182Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-29T11:49:52.182Z"
+  },
+  "__v": 0
+}]

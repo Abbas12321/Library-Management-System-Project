@@ -1,0 +1,115 @@
+[{
+  "_id": {
+    "$oid": "646f7d14d4e5e04fbd8c370d"
+  },
+  "first_name": "abbas",
+  "last_name": "shaikh",
+  "email": "abbas@gmail.com",
+  "password": "$2a$10$L38oLUHyqjTBS0fGmg3OpeQ6Mfu6fh.0v1MRn9lAim34dwVPkbAEq",
+  "phone_no": "7877897899",
+  "address": "mumbai",
+  "createdAt": {
+    "$date": "2023-05-25T15:21:57.022Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-25T15:21:57.022Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646f7de5d4e5e04fbd8c3729"
+  },
+  "first_name": "elon",
+  "last_name": "musk",
+  "email": "elon12@gmail.com",
+  "password": "$2a$10$qyreWUaXYNQqq67HJDdXxOsjYa5CC3S0Z0qwOodEn/i3SXYyjHmTy",
+  "phone_no": "7868969768",
+  "address": "mumbai",
+  "createdAt": {
+    "$date": "2023-05-25T15:25:25.222Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-25T15:25:25.222Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646f7e7fd4e5e04fbd8c3746"
+  },
+  "first_name": "abbas",
+  "last_name": "shaikh",
+  "email": "abbas12@gmail.com",
+  "password": "$2a$10$nd.Ee4OMckegZ3hFq.WPre4SBqHzPUgRD0fUPcdJfytB2m6AY7BgW",
+  "phone_no": "8788798997",
+  "address": "mumbai",
+  "roles": null,
+  "joined_date": {
+    "$date": "2023-05-25T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-25T15:27:59.119Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-25T15:27:59.119Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646f7f7fd4e5e04fbd8c3772"
+  },
+  "first_name": "jeff",
+  "last_name": "bezoz",
+  "email": "jeff12@gmail.com",
+  "password": "$2a$10$wL9X2eAPSuoMGVZFeV5xt.6RburrFWx3tMYhBUUANr59HSRPENt5S",
+  "phone_no": "8789899778",
+  "address": "mumbai",
+  "roles": null,
+  "joined_date": {
+    "$date": "2023-05-25T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-25T15:32:15.745Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-25T15:32:15.745Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64749fda6695df039a370f8f"
+  },
+  "first_name": "virat",
+  "last_name": "kohli",
+  "email": "viratkohli@gmail.com",
+  "password": "$2a$10$RcvyW9ckm1ro8rDB4O4p6eq7gX4Hma5IDamXhkN7q0miRlzyog5gm",
+  "phone_no": "8374873498",
+  "address": "delhi",
+  "roles": null,
+  "joined_date": {
+    "$date": "2023-05-29T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-05-29T12:51:38.156Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-29T12:51:38.156Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6474a0446695df039a370fab"
+  },
+  "first_name": "rishab",
+  "last_name": "pant",
+  "email": "rishabp@gmail.com",
+  "password": "$2a$10$jFfmeHEzWd0Lnm.j/CI/eupsKqph/EeO4E6zBuuakBb6YTxciCzCO",
+  "phone_no": "7979808887",
+  "address": "kolkata",
+  "createdAt": {
+    "$date": "2023-05-29T12:53:24.519Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-29T12:53:24.519Z"
+  },
+  "__v": 0
+}]
